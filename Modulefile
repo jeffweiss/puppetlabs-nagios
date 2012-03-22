@@ -1,0 +1,8 @@
+name 'puppetlabs-nagios'
+version '0.0.1'
+source 'git@github.com:jeffweiss/puppetlabs-nagios.git'
+author 'jeffweiss'
+licence 'ASL 2.0'
+summary 'nagios module'
+description 'Manages nagios'
+project_page 'http://forge.puppetlabs.com/jeffweiss/nagios'
